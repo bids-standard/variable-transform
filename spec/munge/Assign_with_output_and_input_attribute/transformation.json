@@ -1,10 +1,12 @@
 {
   "Description": "Assign with output and input attribute",
-  "Instruction": {
-    "Name": "Assign",
-    "Input": "response_time",
-    "Target": "Face",
-    "Output": "new_face",
-    "InputAttr": "onset"
-  }
+  "Instruction": [
+    {
+      "Name": "Assign",
+      "Input": "response_time",
+      "Target": "Face",
+      "Output": "new_face",
+      "InputAttr": "onset"
+    }
+  ]
 }

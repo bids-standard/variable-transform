@@ -1,8 +1,10 @@
 {
   "Description": "Split simple",
-  "Instruction": {
-    "Name": "Split",
-    "Input": ["age"],
-    "By": ["sex"]
-  }
+  "Instruction": [
+    {
+      "Name": "Split",
+      "Input": ["age"],
+      "By": ["sex"]
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "Description": "Power",
-  "Instruction": {
-    "Name": "Power",
-    "Input": "intensity",
-    "Value": 2
-  }
+  "Instruction": [
+    {
+      "Name": "Power",
+      "Input": "intensity",
+      "Value": 2
+    }
+  ]
 }

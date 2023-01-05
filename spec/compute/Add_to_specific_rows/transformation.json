@@ -1,9 +1,11 @@
 {
   "Description": "Add to specific rows",
-  "Instruction": {
-    "Name": "Add",
-    "Input": "onset",
-    "Query": "familiarity == Famous face",
-    "Value": 3
-  }
+  "Instruction": [
+    {
+      "Name": "Add",
+      "Input": "onset",
+      "Query": "familiarity == Famous face",
+      "Value": 3
+    }
+  ]
 }

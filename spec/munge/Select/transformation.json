@@ -1,7 +1,9 @@
 {
   "Description": "Select",
-  "Instruction": {
-    "Name": "Select",
-    "Input": ["age"]
-  }
+  "Instruction": [
+    {
+      "Name": "Select",
+      "Input": ["age"]
+    }
+  ]
 }
