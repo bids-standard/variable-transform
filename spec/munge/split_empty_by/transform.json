@@ -1,8 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Split",
-    "Input": ["age"],
-    "By": []
-  },
-  "Description": "split empty by"
-}

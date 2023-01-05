@@ -1,7 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Select",
-    "Input": ["familiarity"]
-  },
-  "Description": "select event"
-}

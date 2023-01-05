@@ -1,0 +1,7 @@
+{
+  "Description": "MergeIdenticalRowsrowscellstr",
+  "Instruction": {
+    "Name": "MergeIdenticalRows",
+    "Input": ["trial_type"]
+  }
+}

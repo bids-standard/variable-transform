@@ -1,8 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Filter",
-    "Input": "response_time",
-    "Query": " response_time ~= 1.56"
-  },
-  "Description": "filter numeric"
-}

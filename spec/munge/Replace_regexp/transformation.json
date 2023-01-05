@@ -1,0 +1,11 @@
+{
+  "Description": "Replaceregexp",
+  "Instruction": {
+    "Name": "Replace",
+    "Input": "familiarity",
+    "Replace": {
+      "key": ".*face",
+      "value": "foo"
+    }
+  }
+}

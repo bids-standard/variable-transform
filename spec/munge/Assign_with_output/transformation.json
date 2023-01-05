@@ -1,0 +1,9 @@
+{
+  "Description": "Assignwithoutput",
+  "Instruction": {
+    "Name": "Assign",
+    "Input": "response_time",
+    "Target": "Face",
+    "Output": "new_face"
+  }
+}

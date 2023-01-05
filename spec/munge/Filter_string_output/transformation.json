@@ -1,0 +1,9 @@
+{
+  "Description": "Filterstringoutput",
+  "Instruction": {
+    "Name": "Filter",
+    "Input": "familiarity",
+    "Query": " familiarity == Famous face ",
+    "Output": "famous_face"
+  }
+}

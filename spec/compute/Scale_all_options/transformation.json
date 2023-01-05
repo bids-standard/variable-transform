@@ -1,0 +1,11 @@
+{
+  "Description": "Scalealloptions",
+  "Instruction": {
+    "Name": "Scale",
+    "Input": ["age"],
+    "Demean": true,
+    "Rescale": true,
+    "ReplaceNa": "off",
+    "Output": ["age_demeaned_centered"]
+  }
+}

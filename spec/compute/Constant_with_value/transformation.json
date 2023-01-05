@@ -1,0 +1,8 @@
+{
+  "Description": "Constantwithvalue",
+  "Instruction": {
+    "Name": "Constant",
+    "Value": 2,
+    "Output": "cst"
+  }
+}

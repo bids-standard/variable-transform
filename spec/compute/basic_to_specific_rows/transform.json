@@ -1,9 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Subtract",
-    "Input": "onset",
-    "Query": "response_time < 2",
-    "Value": 1
-  },
-  "Description": "basic to specific rows"
-}

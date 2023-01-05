@@ -1,7 +1,0 @@
-{
-  "Instructions": {
-    "Name": "MergeIdenticalRows",
-    "Input": ["trial_type"]
-  },
-  "Description": "merge identical rows numeric"
-}

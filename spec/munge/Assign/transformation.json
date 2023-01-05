@@ -1,0 +1,8 @@
+{
+  "Description": "Assign",
+  "Instruction": {
+    "Name": "Assign",
+    "Input": "response_time",
+    "Target": "Face"
+  }
+}

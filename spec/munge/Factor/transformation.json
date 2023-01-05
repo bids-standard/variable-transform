@@ -1,0 +1,7 @@
+{
+  "Description": "Factor",
+  "Instruction": {
+    "Name": "Factor",
+    "Input": ["familiarity"]
+  }
+}

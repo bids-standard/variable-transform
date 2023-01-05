@@ -1,0 +1,11 @@
+{
+  "Description": "Divideseveralinputs",
+  "Instruction": {
+    "Name": "Divide",
+    "Input": [
+      "onset",
+      "duration"
+    ],
+    "Value": 2
+  }
+}

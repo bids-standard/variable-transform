@@ -1,0 +1,9 @@
+{
+  "Description": "Addtospecificrows",
+  "Instruction": {
+    "Name": "Add",
+    "Input": "onset",
+    "Query": "familiarity == Famous face",
+    "Value": 3
+  }
+}

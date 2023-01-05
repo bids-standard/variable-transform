@@ -1,8 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Split",
-    "Input": ["handedness"],
-    "By": ["sex"]
-  },
-  "Description": "split simple string"
-}

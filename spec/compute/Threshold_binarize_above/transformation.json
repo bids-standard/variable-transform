@@ -1,0 +1,9 @@
+{
+  "Description": "Thresholdbinarizeabove",
+  "Instruction": {
+    "Name": "Threshold",
+    "Input": "to_threshold",
+    "Binarize": true,
+    "Above": false
+  }
+}

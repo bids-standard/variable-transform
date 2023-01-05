@@ -1,0 +1,7 @@
+{
+  "Description": "Scale",
+  "Instruction": {
+    "Name": "Scale",
+    "Input": ["age"]
+  }
+}

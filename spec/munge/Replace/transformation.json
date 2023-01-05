@@ -1,0 +1,17 @@
+{
+  "Description": "Replace",
+  "Instruction": {
+    "Name": "Replace",
+    "Input": "familiarity",
+    "Replace": [
+      {
+        "key": "Famous face",
+        "value": "foo"
+      },
+      {
+        "key": "Unfamiliar face",
+        "value": "bar"
+      }
+    ]
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Threshold",
-    "Input": "to_threshold",
-    "Output": "tmp"
-  },
-  "Description": "threshold output"
-}

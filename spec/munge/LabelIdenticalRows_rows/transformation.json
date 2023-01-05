@@ -1,0 +1,11 @@
+{
+  "Description": "LabelIdenticalRowsrows",
+  "Instruction": {
+    "Name": "LabelIdenticalRows",
+    "Input": [
+      "trial_type",
+      "stim_type",
+      "other_type"
+    ]
+  }
+}

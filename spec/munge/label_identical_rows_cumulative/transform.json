@@ -1,8 +1,0 @@
-{
-  "Instructions": {
-    "Name": "LabelIdenticalRows",
-    "Input": ["trial_type"],
-    "Cumulative": true
-  },
-  "Description": "label identical rows cumulative"
-}

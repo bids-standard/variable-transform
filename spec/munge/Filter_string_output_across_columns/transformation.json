@@ -1,0 +1,9 @@
+{
+  "Description": "Filterstringoutputacrosscolumns",
+  "Instruction": {
+    "Name": "Filter",
+    "Input": "onset",
+    "Query": " familiarity == Famous face ",
+    "Output": "new"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Description": "Andnan",
+  "Instruction": {
+    "Name": "And",
+    "Input": [
+      "handedness",
+      "age"
+    ],
+    "Output": "age_or_hand"
+  }
+}

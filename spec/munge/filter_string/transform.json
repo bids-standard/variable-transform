@@ -1,8 +1,0 @@
-{
-  "Instructions": {
-    "Name": "Filter",
-    "Input": "familiarity",
-    "Query": " familiarity == Famous face "
-  },
-  "Description": "filter string"
-}

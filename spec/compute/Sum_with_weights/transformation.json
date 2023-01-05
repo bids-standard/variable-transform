@@ -1,0 +1,12 @@
+{
+  "Description": "Sumwithweights",
+  "Instruction": {
+    "Name": "Sum",
+    "Input": [
+      "onset",
+      "duration"
+    ],
+    "Weights": [2,1],
+    "Output": "onset_plus_duration_with_weight"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Subtract",
+  "Instruction": {
+    "Name": "Subtract",
+    "Input": "onset",
+    "Value": 3
+  }
+}

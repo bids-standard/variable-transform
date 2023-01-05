@@ -1,0 +1,8 @@
+{
+  "Description": "Splitsimplestring",
+  "Instruction": {
+    "Name": "Split",
+    "Input": ["handedness"],
+    "By": ["sex"]
+  }
+}

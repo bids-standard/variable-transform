@@ -1,0 +1,8 @@
+{
+  "Description": "Splitsimple",
+  "Instruction": {
+    "Name": "Split",
+    "Input": ["age"],
+    "By": ["sex"]
+  }
+}

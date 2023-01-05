@@ -22,3 +22,8 @@ Each test within those categories is contained within one folder containting:
 - input.tsv: defines the input data to be transformed
 - output.tsv: shows the expected output of the transformation
 - transform.json: specifies the transformation to be applied
+
+## dev
+
+See transformations.tsv and the online version:
+[table of transformations](https://docs.google.com/spreadsheets/d/1_BykMB9Uybe9javHDwGtQVBC7jqi36eTGpibJsGC8t4/edit#gid=0)

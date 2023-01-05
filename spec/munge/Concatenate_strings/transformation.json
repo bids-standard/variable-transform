@@ -1,0 +1,11 @@
+{
+  "Description": "Concatenatestrings",
+  "Instruction": {
+    "Name": "Concatenate",
+    "Input": [
+      "trial_type",
+      "familiarity"
+    ],
+    "Output": "trial_type"
+  }
+}

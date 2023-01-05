@@ -1,0 +1,8 @@
+{
+  "Description": "Splitemptyby",
+  "Instruction": {
+    "Name": "Split",
+    "Input": ["age"],
+    "By": []
+  }
+}
