@@ -1,0 +1,5 @@
+onset	duration	trial_type	to_threshold	tmp
+2	2	VisMot	1	1
+4	2	VisStat	2	2
+6	2	VisMot	-1	0
+8	2	VisStat	-2	0

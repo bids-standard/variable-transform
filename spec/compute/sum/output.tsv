@@ -1,0 +1,5 @@
+onset	duration	trial_type	to_threshold	onset_plus_duration_with_weight
+2	2	VisMot	1	6
+4	2	VisStat	2	10
+6	2	VisMot	-1	14
+8	2	VisStat	-2	18

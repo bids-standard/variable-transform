@@ -1,0 +1,11 @@
+{
+  "Instructions": {
+    "Name": "Split",
+    "Input": ["age"],
+    "By": [
+      "sex",
+      "handedness"
+    ]
+  },
+  "Description": "split nested"
+}

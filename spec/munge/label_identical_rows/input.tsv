@@ -1,0 +1,9 @@
+trial_type	stim_type	other_type
+face	1	face
+face	1	
+house	1	
+house	2	
+house	n/a	NaN
+house	5	chair
+house	2	chair
+chair	n/a	NaN

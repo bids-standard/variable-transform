@@ -1,0 +1,6 @@
+sex_m	handedness	sex	age_gt_twenty	age	men_gt_twenty
+1	right	M	1	21	1
+1	left	M	0	18	0
+0	NaN	F	1	46	0
+0	left	F	0	10	0
+0	right	F	0	n/a	0

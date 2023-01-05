@@ -1,0 +1,11 @@
+{
+  "Instructions": {
+    "Name": "LabelIdenticalRows",
+    "Input": [
+      "trial_type",
+      "stim_type",
+      "other_type"
+    ]
+  },
+  "Description": "label identical rows"
+}

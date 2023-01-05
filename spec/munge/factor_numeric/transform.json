@@ -1,0 +1,7 @@
+{
+  "Instructions": {
+    "Name": "Factor",
+    "Input": ["age"]
+  },
+  "Description": "factor numeric"
+}

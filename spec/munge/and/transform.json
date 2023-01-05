@@ -1,0 +1,11 @@
+{
+  "Instructions": {
+    "Name": "And",
+    "Input": [
+      "sex_m",
+      "age_gt_twenty"
+    ],
+    "Output": "men_gt_twenty"
+  },
+  "Description": "and"
+}

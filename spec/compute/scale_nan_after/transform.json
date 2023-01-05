@@ -1,0 +1,40 @@
+[
+  {
+    "Instructions": {
+      "Name": "Scale",
+      "Input": ["age"],
+      "Rescale": false,
+      "Output": ["age_not_rescaled"]
+    },
+    "Description": "scale nan after"
+  },
+  {
+    "Instructions": {
+      "Name": "Scale",
+      "Input": ["age"],
+      "Demean": false,
+      "Output": ["age_not_demeaned"]
+    },
+    "Description": "scale nan after"
+  },
+  {
+    "Instructions": {
+      "Name": "Scale",
+      "Input": ["age"],
+      "ReplaceNa": "after",
+      "Rescale": false,
+      "Output": ["age_not_rescaled_after"]
+    },
+    "Description": "scale nan after"
+  },
+  {
+    "Instructions": {
+      "Name": "Scale",
+      "Input": ["age"],
+      "ReplaceNa": "after",
+      "Demean": false,
+      "Output": ["age_not_demeaned_after"]
+    },
+    "Description": "scale nan after"
+  }
+]

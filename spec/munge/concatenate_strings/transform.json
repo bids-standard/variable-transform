@@ -1,0 +1,11 @@
+{
+  "Instructions": {
+    "Name": "Concatenate",
+    "Input": [
+      "trial_type",
+      "familiarity"
+    ],
+    "Output": "trial_type"
+  },
+  "Description": "concatenate strings"
+}

@@ -1,0 +1,5 @@
+onset	duration	repetition	familiarity	trial_type	response_time	Face
+2	2	1	Famous face	Face	1.5	1.5
+4	2	1	Unfamiliar face	Face	2	2
+5	2	2	Famous face	Face	1.56	1.56
+8	2	2	Unfamiliar face	Face	2.1	2.1

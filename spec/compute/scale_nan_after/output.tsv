@@ -1,0 +1,6 @@
+sex_m	handedness	sex	age_gt_twenty	age	age_not_rescaled	age_not_demeaned	age_not_rescaled_after	age_not_demeaned_after
+1	right	M	1	21	-2.75	1.351094761353402	-2.75	1.351094761353402
+1	left	M	0	18	-5.75	1.158081224017202	-5.75	1.158081224017202
+0	NaN	F	1	46	22.25	2.959540905821737	22.25	2.959540905821737
+0	left	F	0	10	-13.75	0.6433784577873342	-13.75	0.6433784577873342
+0	right	F	0	n/a	n/a	n/a	0	0

@@ -1,0 +1,17 @@
+{
+  "Instructions": [
+    {
+      "Name": "Subtract",
+      "Input": "onset",
+      "Value": 3,
+      "Output": "onset_minus_3"
+    },
+    {
+      "Name": "Add",
+      "Input": "onset",
+      "Value": 1,
+      "Output": "onset_plus_1"
+    }
+  ],
+  "Description": "add subtract with output"
+}

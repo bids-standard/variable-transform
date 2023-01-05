@@ -1,0 +1,11 @@
+{
+  "Instructions": {
+    "Name": "Product",
+    "Input": [
+      "onset",
+      "duration"
+    ],
+    "Output": "onset_times_duration"
+  },
+  "Description": "product"
+}

@@ -1,0 +1,10 @@
+{
+  "Instructions": {
+    "Name": "Assign",
+    "Input": "response_time",
+    "Target": "Face",
+    "Output": "new_face",
+    "InputAttr": "onset"
+  },
+  "Description": "assign with output and input attribute"
+}

@@ -1,0 +1,9 @@
+{
+  "Instructions": {
+    "Name": "Filter",
+    "Input": "onset",
+    "Query": " familiarity == Famous face ",
+    "Output": "new"
+  },
+  "Description": "filter string output across columns"
+}

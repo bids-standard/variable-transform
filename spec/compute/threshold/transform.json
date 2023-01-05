@@ -1,0 +1,11 @@
+{
+  "Instructions": {
+    "Name": "Threshold",
+    "Input": "to_threshold",
+    "Threshold": 1,
+    "Binarize": true,
+    "Above": true,
+    "Signed": false
+  },
+  "Description": "threshold"
+}
