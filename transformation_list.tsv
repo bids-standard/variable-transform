@@ -18,10 +18,10 @@ Filter	munge	FALSE	FALSE	TRUE	TRUE
 Formula	?	FALSE	FALSE	FALSE	FALSE
 Group	munge	FALSE	FALSE	TRUE	FALSE
 Image	?	FALSE	FALSE	FALSE	FALSE
-Label_identical_rows	munge	FALSE	FALSE	FALSE	TRUE
+LabelIdenticalRows	munge	FALSE	FALSE	FALSE	TRUE
 Lag	compute	TRUE	FALSE	TRUE	FALSE
 Mean	compute	FALSE	FALSE	FALSE	TRUE
-Merge_identical_rows	munge	FALSE	FALSE	FALSE	TRUE
+MergeIdenticalRows	munge	FALSE	FALSE	FALSE	TRUE
 Multiply	compute	FALSE	FALSE	FALSE	TRUE
 Not	compute	FALSE	TRUE	TRUE	TRUE
 Or	compute	FALSE	TRUE	TRUE	TRUE
