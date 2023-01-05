@@ -1,5 +1,5 @@
 {
-  "Description": "Splitnested",
+  "Description": "Split nested",
   "Instruction": {
     "Name": "Split",
     "Input": ["age"],

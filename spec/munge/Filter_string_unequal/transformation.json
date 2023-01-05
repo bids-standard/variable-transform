@@ -1,5 +1,5 @@
 {
-  "Description": "Filterstringunequal",
+  "Description": "Filter string unequal",
   "Instruction": {
     "Name": "Filter",
     "Input": "familiarity",

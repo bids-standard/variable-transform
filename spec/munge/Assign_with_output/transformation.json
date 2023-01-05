@@ -1,5 +1,5 @@
 {
-  "Description": "Assignwithoutput",
+  "Description": "Assign with output",
   "Instruction": {
     "Name": "Assign",
     "Input": "response_time",

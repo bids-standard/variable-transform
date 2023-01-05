@@ -1,5 +1,5 @@
 {
-  "Description": "Selecteventsfile2",
+  "Description": "Select events file 2",
   "Instruction": {
     "Name": "Select",
     "Input": ["familiarity"]

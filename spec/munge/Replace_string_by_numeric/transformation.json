@@ -1,5 +1,5 @@
 {
-  "Description": "Replacestringbynumeric",
+  "Description": "Replace string by numeric",
   "Instruction": {
     "Name": "Replace",
     "Input": "familiarity",

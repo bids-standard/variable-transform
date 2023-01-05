@@ -1,5 +1,5 @@
 {
-  "Description": "Addcoercevalue",
+  "Description": "Add coerce value",
   "Instruction": {
     "Name": "Add",
     "Input": "onset",

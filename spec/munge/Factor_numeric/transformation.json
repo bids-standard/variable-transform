@@ -1,5 +1,5 @@
 {
-  "Description": "Factornumeric",
+  "Description": "Factor numeric",
   "Instruction": {
     "Name": "Factor",
     "Input": ["age"]

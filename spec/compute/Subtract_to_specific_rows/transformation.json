@@ -1,5 +1,5 @@
 {
-  "Description": "Subtracttospecificrows",
+  "Description": "Subtract to specific rows",
   "Instruction": {
     "Name": "Subtract",
     "Input": "onset",

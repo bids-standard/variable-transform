@@ -1,5 +1,5 @@
 {
-  "Description": "Filterstringoutputacrosscolumns",
+  "Description": "Filter string output across columns",
   "Instruction": {
     "Name": "Filter",
     "Input": "onset",

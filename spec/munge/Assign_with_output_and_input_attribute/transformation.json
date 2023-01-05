@@ -1,5 +1,5 @@
 {
-  "Description": "Assignwithoutputandinputattribute",
+  "Description": "Assign with output and input attribute",
   "Instruction": {
     "Name": "Assign",
     "Input": "response_time",

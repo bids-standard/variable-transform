@@ -1,5 +1,5 @@
 {
-  "Description": "Replaceregexp",
+  "Description": "Replace regexp",
   "Instruction": {
     "Name": "Replace",
     "Input": "familiarity",

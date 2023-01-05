@@ -1,5 +1,5 @@
 {
-  "Description": "LabelIdenticalRowsrowscumulative",
+  "Description": "LabelIdenticalRows rows cumulative",
   "Instruction": {
     "Name": "LabelIdenticalRows",
     "Input": ["trial_type"],

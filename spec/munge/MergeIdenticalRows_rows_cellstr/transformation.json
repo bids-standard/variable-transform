@@ -1,5 +1,5 @@
 {
-  "Description": "MergeIdenticalRowsrowscellstr",
+  "Description": "MergeIdenticalRows rows cellstr",
   "Instruction": {
     "Name": "MergeIdenticalRows",
     "Input": ["trial_type"]

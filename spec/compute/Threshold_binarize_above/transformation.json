@@ -1,5 +1,5 @@
 {
-  "Description": "Thresholdbinarizeabove",
+  "Description": "Threshold binarize above",
   "Instruction": {
     "Name": "Threshold",
     "Input": "to_threshold",

@@ -1,5 +1,5 @@
 {
-  "Description": "Thresholdwithoutput",
+  "Description": "Threshold with output",
   "Instruction": {
     "Name": "Threshold",
     "Input": "to_threshold",

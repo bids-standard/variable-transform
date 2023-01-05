@@ -1,5 +1,5 @@
 {
-  "Description": "Scalealloptions",
+  "Description": "Scale all options",
   "Instruction": {
     "Name": "Scale",
     "Input": ["age"],

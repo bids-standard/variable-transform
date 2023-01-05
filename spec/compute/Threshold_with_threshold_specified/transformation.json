@@ -1,5 +1,5 @@
 {
-  "Description": "Thresholdwiththresholdspecified",
+  "Description": "Threshold with threshold specified",
   "Instruction": {
     "Name": "Threshold",
     "Input": "to_threshold",

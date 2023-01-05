@@ -1,5 +1,5 @@
 {
-  "Description": "Powerwithoutput",
+  "Description": "Power with output",
   "Instruction": {
     "Name": "Power",
     "Input": "intensity",

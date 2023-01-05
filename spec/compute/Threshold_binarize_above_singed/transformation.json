@@ -1,5 +1,5 @@
 {
-  "Description": "Thresholdbinarizeabovesinged",
+  "Description": "Threshold binarize above singed",
   "Instruction": {
     "Name": "Threshold",
     "Input": "to_threshold",

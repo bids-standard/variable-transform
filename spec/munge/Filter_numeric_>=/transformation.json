@@ -1,5 +1,5 @@
 {
-  "Description": "Filternumeric>=",
+  "Description": "Filter numeric >=",
   "Instruction": {
     "Name": "Filter",
     "Input": "response_time",
