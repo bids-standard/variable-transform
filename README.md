@@ -14,8 +14,8 @@ https://bids-matlab.readthedocs.io/en/latest/transformers.html
 
 The transformations are split in 2 categories:
 
-- [compute](./spec/compute_md)
-- [munge](.spec/munge_md)
+- [compute](./spec/compute.md)
+- [munge](.spec/munge.md)
 
 Each test within those categories is contained within one folder containting:
 

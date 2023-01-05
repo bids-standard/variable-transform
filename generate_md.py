@@ -5,7 +5,7 @@ import json
 def to_markdown(dir):
 
     input_dir = Path('spec').joinpath(dir)
-    output_file = Path('spec').joinpath(f'{dir}_md')
+    output_file = Path('spec').joinpath(f'{dir}.md')
 
     with open(output_file, 'w+') as f:
 
