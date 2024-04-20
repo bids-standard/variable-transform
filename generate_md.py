@@ -58,8 +58,6 @@ Last update: {pd.Timestamp.now()}
 
         # table of content
         print("\n", file=f)
-        for this_transformation in transformations["name"]:
-            print(f" - [{this_transformation}](#{this_transformation.lower()})", file=f)
 
         for this_transformation in transformations["name"]:
 

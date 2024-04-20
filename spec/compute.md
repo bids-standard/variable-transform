@@ -35,31 +35,6 @@ Last update: 2023-01-05 13:11:55.617485
 | Variance      | False                  | False               | False                | False                     |
 
 
- - [Add](#add)
- - [And](#and)
- - [Constant](#constant)
- - [Convolve](#convolve)
- - [Deconvolve](#deconvolve)
- - [Demean](#demean)
- - [Derivative](#derivative)
- - [Divide](#divide)
- - [Lag](#lag)
- - [Mean](#mean)
- - [Multiply](#multiply)
- - [Not](#not)
- - [Or](#or)
- - [Orthogonalize](#orthogonalize)
- - [PCA](#pca)
- - [Power](#power)
- - [Product](#product)
- - [Scale](#scale)
- - [StdDev](#stddev)
- - [Subtract](#subtract)
- - [Sum](#sum)
- - [Threshold](#threshold)
- - [Variance](#variance)
-
-
 <h2 id='Add'>Add</h2>
 
 

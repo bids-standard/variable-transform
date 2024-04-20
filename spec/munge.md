@@ -30,26 +30,6 @@ Last update: 2023-01-05 13:11:56.023925
 | ToDense            | False                  | False               | True                 | False                     |
 
 
- - [Assign](#assign)
- - [Censor](#censor)
- - [Concatenate](#concatenate)
- - [Copy](#copy)
- - [Delete](#delete)
- - [DropNA](#dropna)
- - [Factor](#factor)
- - [Filter](#filter)
- - [Group](#group)
- - [Image](#image)
- - [LabelIdenticalRows](#labelidenticalrows)
- - [MergeIdenticalRows](#mergeidenticalrows)
- - [Rename](#rename)
- - [Replace](#replace)
- - [Resample](#resample)
- - [Select](#select)
- - [Split](#split)
- - [ToDense](#todense)
-
-
 <h2 id='Assign'>Assign</h2>
 
 
