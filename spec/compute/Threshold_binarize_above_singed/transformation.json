@@ -1,5 +1,5 @@
 {
-  "Description": "Threshold binarize above singed",
+  "Description": "Threshold binarize above signed",
   "Instruction": [
     {
       "Name": "Threshold",

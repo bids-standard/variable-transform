@@ -17,7 +17,7 @@ The transformations are split in 2 categories:
 - [compute](spec/compute.md)
 - [munge](spec/munge.md)
 
-Each test within those categories is contained within one folder containting:
+Each test within those categories is contained within one folder containing:
 
 - input.tsv: defines the input data to be transformed
 - output.tsv: shows the expected output of the transformation

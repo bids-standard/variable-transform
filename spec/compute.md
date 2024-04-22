@@ -778,7 +778,7 @@ Last update: 2023-01-05 13:11:55.617485
 <h2 id='Threshold'>Threshold</h2>
 
 
-### Threshold binarize above singed
+### Threshold binarize above signed
 
 #### input
 
@@ -793,7 +793,7 @@ Last update: 2023-01-05 13:11:55.617485
 
 ```json
 {
-    "Description": "Threshold binarize above singed",
+    "Description": "Threshold binarize above signed",
     "Instruction": [
         {
             "Name": "Threshold",

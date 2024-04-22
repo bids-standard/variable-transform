@@ -79,7 +79,7 @@ Last update: {pd.Timestamp.now()}
                     continue
                 transform_ = this_test.joinpath("transformation.json")
                 if not transform_.exists():
-                    print(f"[red] tranform.json missing for {this_test}[/red]")
+                    print(f"[red] transform.json missing for {this_test}[/red]")
                     continue
 
                 print_this_test(this_test, input_, output_, transform_, f)
